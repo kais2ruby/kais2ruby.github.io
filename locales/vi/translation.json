@@ -1,0 +1,126 @@
+{
+  "title": "Chào mừng quý vị và các bạn JJJ!!",
+  "description": "",
+  "banner": {
+    "days": "Ngày",
+    "hours": "Giờ",
+    "minutes": "Phút",
+    "seconds": "Giây"
+  },
+  "couple": {
+    "marriedDate": "27 tháng 5, 2023",
+    "inviation": "Trân trọng kính mời mọi người tới tham dự lễ thành hôn của tụi mình",
+    "groom": {
+      "name": "Thế Hiệp",
+      "desc": ""
+    },
+    "bridal": {
+      "name": "Hồng Ngọc",
+      "desc": ""
+    }
+  },
+  "event": {
+    "header": "Sự kiện đặc biệt của tụi mình",
+    "title": "Tiệc cưới và lễ ăn hỏi",
+    "gift4Us": "Mừng cưới",
+    "groom": {
+      "name": "Chú rể",
+      "title": "Tiệc cưới nhà trai",
+      "address": "Xã Hồng Thái, huyện Kiến Xương, tỉnh Thái Bình",
+      "dayTime": "Thứ 7, ngày 27"
+    },
+    "bride": {
+      "name": "Cô dâu",
+      "title": "Tiệc cưới nhà gái",
+      "address": "Xã Bình Nguyên, huyện Kiến Xương, tỉnh Thái Bình",
+      "dayTime": "Thứ 7, ngày 27"
+    },
+    "monthYear": "Tháng 5, 2023",
+    "accountNo": "Số tài khoản",
+    "accountName": "Tên tài khoản",
+    "bankName": "Ngân hàng",
+    "viewMap": "Xem bản đồ",
+    "fromTime": "Từ 4:00 PM",
+    "toTime": "Tới 6:00 PM"
+  },
+  "story": {
+    "header-section": "TỤI MÌNH ĐÃ YÊU NHAU NHƯ THẾ NÀO 💕",
+    "title": "Chuyện tình bạn cùng lớp",
+    "short-intro": "4 năm - một khoảng thời gian không quá dài cũng không quá ngắn, nhưng đó là thời gian để bọn mình có thể hiểu rõ nhau và quyết định sẽ bên nhau đến hết cuộc đời này ...",
+    "title-1": "Lần đầu gặp gỡ",
+    "date-1": "Rất nhiều năm về trước",
+    "description-1": "Vào ngày nhập học vào lớp 10A3, chàng trai đã gặp cô gái ấy với ân tượng vô cùng mạnh mẽ",
+    "title-2": "7 năm với role bạn cùng lớp cấp 3",
+    "date-2": "7 năm sau",
+    "description-2": "Rồi chúng tôi cùng nhau trải qua 3 năm cấp 3 với role bạn cùng lớp và sau đó là 4 năm Đại học với role cựu bạn cùng lớp :)))",
+    "title-3": "Gặp lại và yêu nhao",
+    "date-3": "Tháng 4 năm 2019",
+    "description-3": "Khi chúng tôi sắp kết thúc Đại học thì duyên số đã đưa chúng tôi đến với nhau, tình cơ như được số phận sắp đặt",
+    "title-4": "4 năm thăng trầm",
+    "date-4": "4 năm sau đó",
+    "description-4": "Chúng tôi đã có thật nhiều kỷ niệm cùng nhau, chia sẻ nhiều hơn, hiểu nhau nhiều hơn, gắn bó nhiều hơn",
+    "title-5": "Cầu hôn bất ngờ",
+    "date-5": "Hôm ở Seeu Coffee",
+    "description-5": "Trong 1 lần đi chụp ảnh cafe như bao lần khi tôi (chú rể) chụp ảnh cho Ngọc, tôi đã giả vờ bảo cô ấy xoay lưng lại tạo dáng, tôi ở sau lưng ra vẻ chỉnh cho cô ấy và lôi nhẫn ra và quỳ xuống, khi cô ấy quay lại thì ...",
+    "title-6": "Đám cưới rồi, ối rời ôi xD",
+    "date-6": "27.05.2023",
+    "description-6": "Và rồi hôm nay tụi mình thấy thực sự hạnh phúc và cần có nhau trong cuộc đời này. Niềm hạnh phúc sẽ được trọn vẹn khi có sự chung vui và chúc phúc từ những người mà tụi mình yêu thương và cũng yêu thương tụi mình. Rất mong chờ mọi người sẽ tới chung vui cùng tụi mình  💕."
+  },
+  "gallery": {
+    "header-section-01": "MỘT VÀI chiếc ảnh cưới CỦA TỤI MÌNH",
+    "title-01": "Pre-wedding",
+    "short-intro-01": "\"Hãy làm những gì khiến bạn hạnh phúc và ở bên người khiến bạn mỉm cười mỗi ngày...\"",
+    "header-section": "",
+    "title": "Những khoảnh khắc đáng iu",
+    "short-intro": "Những tấm ảnh mà chú rể sau bao lần ăn hành ngập mồm chụp cho cô dâu"
+  },
+  "rsvp": {
+    "header-section": "Vui lòng phản hồi và xác nhận",
+    "sub-title-01": "Sự hiện diện của quý vị và các bạn là niềm hạnh phúc vô bờ bến cho gia đình mình, xin vui lòng xác nhận trước ngày 23 tháng 10.",
+    "sub-title-02": "Nếu quý vị và các bạn không thể tham dự, quý vị có thể để lại những lời chúc tốt đẹp nhất bên dưới tới tụi mình (bỏ qua check xác nhận). Trân trọng và biết ơn 💕",
+    "modal": {
+      "title": "Bạn có muốn gửi đi thông tin dưới đây không?",
+      "cancel": "Quay lại",
+      "okay": "Okay!"
+    },
+    "guestName": "Họ và tên",
+    "email": "Email",
+    "confirmation": "Tôi sẽ tham dự",
+    "unConfirmation": "Tôi không tham dự được",
+    "transportation": "Phương tiện",
+    "selfDrive": "Phương tiện tự túc",
+    "bookDrive": "Đi xe cùng đoàn TSDV",
+    "guestAttendNo": "Số người tham dự",
+    "wishes": "Lời chúc tới tụi mình",
+    "sendUs": "Gửi",
+    "submitting": "Đang gửi...",
+    "guestNote": "Tụi mình sẽ chuẩn bị một chuyến xe cho bạn tại 519 Kim Mã, Ba Đình, Hà Nội và xuất phát lúc 10:15 sáng. Hãy lưu ý và xác nhận để tụi mình chuẩn bị được chu đáo nhất.",
+    "guestNameMessage": "Vui lòng nhập họ và tên quý khách từ 10 - 50 kí tự (bắt buộc)",
+    "emailMessage": "Vui lòng nhập email đúng định dạng (bắt buộc)",
+    "wishesMessage": "Vui lòng nhập lời chúc tới tụi mình từ 30 - 1000 kí tự (bắt buộc)",
+    "errorMessage": "Có lỗi xảy ra, vui lòng thử lại bạn nhé!",
+    "successMessage": "Xin chân thành cảm ơn phản hồi và những lời chúc tốt đẹp nhất của bạn tới tụi mình."
+  },
+  "wishes": {
+    "title": "Những yêu thương"
+  },
+  "footer": {
+    "sayThanks": "Xin cảm ơn mọi người"
+  },
+  "nav": {
+    "brideShortName": "N",
+    "groomShortName": "H",
+    "section": {
+      "couple": "Cặp đôi",
+      "events": "Sự kiện",
+      "story": "Chuyện tình yêu",
+      "gallery": "Album",
+      "rsvp": "R.S.V.P",
+      "wishes": "Lời chúc"
+    }
+  },
+  "toast": {
+    "title": "From Hiep & Ngoc with love",
+    "now": "bây giờ"
+  }
+}
