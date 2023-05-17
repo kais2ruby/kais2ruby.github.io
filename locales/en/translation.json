@@ -1,127 +1,126 @@
 {
-  "title": "Welcome to my wedding page",
+  "title": "Chào mừng quý vị và các bạn JJJ!!",
   "description": "",
   "banner": {
-    "days": "Days",
-    "hours": "Hours",
-    "minutes": "Minutes",
-    "seconds": "Seconds"
+    "days": "Ngày",
+    "hours": "Giờ",
+    "minutes": "Phút",
+    "seconds": "Giây"
   },
   "couple": {
-    "marriedDate": "October 30th, 2022",
-    "inviation": "We invited you to celebrate our wedding",
+    "marriedDate": "27 tháng 5, 2023",
+    "inviation": "Trân trọng kính mời mọi người tới tham dự lễ thành hôn của tụi mình",
     "groom": {
-      "name": "Jacob",
-      "desc": "\"Why are you so tall?\" a question from strangers to the groom Cong Manh, from Ha Tay, silk village xD. Currently, I'm a software engineer in Hanoi, gentle and talkless, love green grass and sunshine, hate lies but it's just before :))))). I love photography, going to the gym and soccer, especially exploring the world with my wife 💕"
+      "name": "Thế Hiệp",
+      "desc": ""
     },
     "bridal": {
-      "name": "Hannah",
-      "desc": "Cute girl from Nam Dinh :), currently a developer in Hanoi, who loves the green forest much more than the ocean, sometimes a bit dreamy and dreams of becoming a flower and vegetable farmer in Da Lat. While my 30th birthday is coming soon, I'm suddenly getting married, very happy  💕 hihi."
+      "name": "Hồng Ngọc",
+      "desc": ""
     }
   },
   "event": {
-    "header": "OUR SPECIAL EVENTS",
-    "title": "Wedding Events",
-    "gift4Us": "Gift for us",
+    "header": "Sự kiện đặc biệt của tụi mình",
+    "title": "Tiệc cưới và lễ ăn hỏi",
+    "gift4Us": "Mừng cưới",
     "groom": {
-      "name": "Groom",
-      "title": "Wedding Ceremony",
-      "address": "No. 84 Tay Son, Vu Lang village, Dan Hoa, Thanh Oai District, Ha Noi",
-      "dayTime": "Sunday, 30"
+      "name": "Chú rể",
+      "title": "Tiệc cưới nhà trai",
+      "address": "Xã Hồng Thái, huyện Kiến Xương, tỉnh Thái Bình",
+      "dayTime": "Thứ 7, ngày 27"
     },
     "bride": {
-      "name": "Bride",
-      "title": "Bride Party",
-      "address": "Hamlet 14, Xuan Phong, Xuan Truong District, Nam Dinh Province",
-      "dayTime": "Saturday, 29"
+      "name": "Cô dâu",
+      "title": "Tiệc cưới nhà gái",
+      "address": "Xã Bình Nguyên, huyện Kiến Xương, tỉnh Thái Bình",
+      "dayTime": "Thứ 7, ngày 27"
     },
-    "monthYear": "October, 2022",
-    "accountNo": "Account Number",
-    "accountName": "Account name",
-    "bankName": "Bank name",
-    "viewMap": "View Map",
-    "fromTime": "From 10:00 AM",
-    "toTime": "To 02:00 PM"
+    "monthYear": "Tháng 5, 2023",
+    "accountNo": "Số tài khoản",
+    "accountName": "Tên tài khoản",
+    "bankName": "Ngân hàng",
+    "viewMap": "Xem bản đồ",
+    "fromTime": "Từ 4:00 PM",
+    "toTime": "Tới 6:00 PM"
   },
   "story": {
-    "header-section": "WE LOVE EACH OTHER",
-    "title": "Our Story",
-    "short-intro": "4 years, not too long, not too short, it's time for two hearts being able to find each other again...",
-    "title-1": "We met at TSDV",
-    "date-1": "4 years ago",
-    "description-1": "On that day, we were destined to be colleagues at TSDV (Toshiba); Hue—the girl who blushed with a few satellites around, and Manh—the quiet guy who loved Hue city and also liked taking photos of Hue xD. us. We had been working together on the same floor or talking to each other at breakfasts in the company, Manh was impressed by her personality, by her blushing times xD, but fate had not yet come, so we just became friends and were good colleagues.",
-    "title-2": "We were far away",
-    "date-2": "1 year later",
-    "description-2": "After a while, we each resigned from TSDV-the first company to find new challenges and YOLO with our own joys, and we did not have any contact with each other (because Hue was unfriended without any reason so far ) J",
-    "title-3": "We met again and fell in love",
-    "date-3": "Early of 2022",
-    "description-3": "Heaven and earth are favorable, spring flowers bloom, Manh made friend requests with Hue again, we talked and shared a lot about the past, two thoughts, two hearts that were unexpectedly in sync, and that's how we started to love each other.",
-    "title-4": "First trip",
-    "date-4": "15.03.2022",
-    "description-4": "A little surprise, on the occasion of Hue's birthday, we went to the romantic and dear Hue city, with many beautiful scenes and lots of delicious specialties too. As a result, we gained too much weight. (Tip: If you want to gain weight, you should go to Hue City. Then you can not stop eating xD)",
-    "title-5": "Surprise proposal",
-    "date-5": "23.08.2022",
-    "description-5": "During a foodtour trip with a dear sister far away, Manh proposed to Hue on the bank of a stream in the middle of the Madagui mountains.",
-    "title-6": "We're getting married xD",
-    "date-6": "30.10.2022",
-    "description-6": "We are really happy and need each other in this life. Happiness will be complete when there is joy and happiness from everyone we love and vice versa. We are looking forward to everyone coming to celebrate with us  💕."
+    "header-section": "TỤI MÌNH ĐÃ YÊU NHAU NHƯ THẾ NÀO 💕",
+    "title": "Chuyện tình bạn cùng lớp",
+    "short-intro": "4 năm - một khoảng thời gian không quá dài cũng không quá ngắn, nhưng đó là thời gian để bọn mình có thể hiểu rõ nhau và quyết định sẽ bên nhau đến hết cuộc đời này ...",
+    "title-1": "Lần đầu gặp gỡ",
+    "date-1": "Rất nhiều năm về trước",
+    "description-1": "Vào ngày nhập học vào lớp 10A3, chàng trai đã gặp cô gái ấy với ân tượng vô cùng mạnh mẽ",
+    "title-2": "7 năm với role bạn cùng lớp cấp 3",
+    "date-2": "7 năm sau",
+    "description-2": "Rồi chúng tôi cùng nhau trải qua 3 năm cấp 3 với role bạn cùng lớp và sau đó là 4 năm Đại học với role cựu bạn cùng lớp :)))",
+    "title-3": "Gặp lại và yêu nhao",
+    "date-3": "Tháng 4 năm 2019",
+    "description-3": "Khi chúng tôi sắp kết thúc Đại học thì duyên số đã đưa chúng tôi đến với nhau, tình cơ như được số phận sắp đặt",
+    "title-4": "4 năm thăng trầm",
+    "date-4": "4 năm sau đó",
+    "description-4": "Chúng tôi đã có thật nhiều kỷ niệm cùng nhau, chia sẻ nhiều hơn, hiểu nhau nhiều hơn, gắn bó nhiều hơn",
+    "title-5": "Cầu hôn bất ngờ",
+    "date-5": "Hôm ở Seeu Coffee",
+    "description-5": "Trong 1 lần đi chụp ảnh cafe như bao lần khi tôi (chú rể) chụp ảnh cho Ngọc, tôi đã giả vờ bảo cô ấy xoay lưng lại tạo dáng, tôi ở sau lưng ra vẻ chỉnh cho cô ấy và lôi nhẫn ra và quỳ xuống, khi cô ấy quay lại thì ...",
+    "title-6": "Đám cưới rồi, ối rời ôi xD",
+    "date-6": "27.05.2023",
+    "description-6": "Và rồi hôm nay tụi mình thấy thực sự hạnh phúc và cần có nhau trong cuộc đời này. Niềm hạnh phúc sẽ được trọn vẹn khi có sự chung vui và chúc phúc từ những người mà tụi mình yêu thương và cũng yêu thương tụi mình. Rất mong chờ mọi người sẽ tới chung vui cùng tụi mình  💕."
   },
   "gallery": {
-    "header-section-01": "OUR WEDDING GALLERY",
-    "title-01": "PRE-WEDDING",
-    "short-intro-01": "\"Do what makes you Happy, be with who make you Smile, laugh as much as you Breathe, love as long as you Live\"",
+    "header-section-01": "MỘT VÀI chiếc ảnh cưới CỦA TỤI MÌNH",
+    "title-01": "Pre-wedding",
+    "short-intro-01": "\"Hãy làm những gì khiến bạn hạnh phúc và ở bên người khiến bạn mỉm cười mỗi ngày...\"",
     "header-section": "",
-    "title": "Vacation of love",
-    "short-intro": "Travel through the oceans, run across a thousand roads with you, my love ..."
+    "title": "Những khoảnh khắc đáng iu",
+    "short-intro": "Những tấm ảnh mà chú rể sau bao lần ăn hành ngập mồm chụp cho cô dâu"
   },
   "rsvp": {
-    "header-section": "R.S.V.P",
-    "sub-title-01": "We're looking forward to celerating with you all. Kindly please reply us by Oct 23th.",
-    "sub-title-02": "For some reason, you can not join with us, please feel free to give us some kind of words from your heart below (ignore confirmation checkbox). Sincerely! Thanks 💕",
+    "header-section": "Vui lòng phản hồi và xác nhận",
+    "sub-title-01": "Sự hiện diện của quý vị và các bạn là niềm hạnh phúc vô bờ bến cho gia đình mình, xin vui lòng xác nhận trước ngày 23 tháng 10.",
+    "sub-title-02": "Nếu quý vị và các bạn không thể tham dự, quý vị có thể để lại những lời chúc tốt đẹp nhất bên dưới tới tụi mình (bỏ qua check xác nhận). Trân trọng và biết ơn 💕",
     "modal": {
-      "title": "Do you wanna submit with the below?",
-      "cancel": "Go back",
+      "title": "Bạn có muốn gửi đi thông tin dưới đây không?",
+      "cancel": "Quay lại",
       "okay": "Okay!"
     },
-    "guestName": "Guest name",
-    "email": "Email address",
-    "confirmation": "Accepts with pleasure",
-    "unConfirmation": "I can not attend",
-    "transportation": "Transportation",
-    "selfDrive": "Self-drive",
-    "bookDrive": "Book a seat to travel with TSDV friends",
-    "guestAttendNo": "Number of guest(s) attending",
-    "wishes": "Some sweetiest word to us",
-    "sendUs": "Send us",
-    "submitting": "Submitting...",
-    "guestNote": "We will prepare a bus for you at 519 Kim Ma, Ba Dinh, Ha Noi and start at 10:15 A.M. Please be noticed and confirmed with us for the preparation well",
-    "guestNameMessage": "Please input valid guest name from 0-50 characters.",
-    "emailMessage": "Please input valid email address",
-    "wishesMessage": "Please input valid wishes to us from 30-1000 characters",
-    "errorMessage": "An error occurred, please try again!",
-    "successMessage": "Thank you very much for your response and best wishes to us."
+    "guestName": "Họ và tên",
+    "email": "Email",
+    "confirmation": "Tôi sẽ tham dự",
+    "unConfirmation": "Tôi không tham dự được",
+    "transportation": "Phương tiện",
+    "selfDrive": "Phương tiện tự túc",
+    "bookDrive": "Đi xe cùng đoàn TSDV",
+    "guestAttendNo": "Số người tham dự",
+    "wishes": "Lời chúc tới tụi mình",
+    "sendUs": "Gửi",
+    "submitting": "Đang gửi...",
+    "guestNote": "Tụi mình sẽ chuẩn bị một chuyến xe cho bạn tại 519 Kim Mã, Ba Đình, Hà Nội và xuất phát lúc 10:15 sáng. Hãy lưu ý và xác nhận để tụi mình chuẩn bị được chu đáo nhất.",
+    "guestNameMessage": "Vui lòng nhập họ và tên quý khách từ 10 - 50 kí tự (bắt buộc)",
+    "emailMessage": "Vui lòng nhập email đúng định dạng (bắt buộc)",
+    "wishesMessage": "Vui lòng nhập lời chúc tới tụi mình từ 30 - 1000 kí tự (bắt buộc)",
+    "errorMessage": "Có lỗi xảy ra, vui lòng thử lại bạn nhé!",
+    "successMessage": "Xin chân thành cảm ơn phản hồi và những lời chúc tốt đẹp nhất của bạn tới tụi mình."
   },
   "wishes": {
-    "title": "From heart to heart"
+    "title": "Những yêu thương"
   },
   "footer": {
-    "sayThanks": "Thank you"
+    "sayThanks": "Xin cảm ơn mọi người"
   },
   "nav": {
     "brideShortName": "N",
     "groomShortName": "H",
     "section": {
-      "couple": "Couple",
-      "events": "Events",
-      "story": "Story",
-      "gallery": "Gallery",
+      "couple": "Cặp đôi",
+      "events": "Sự kiện",
+      "story": "Chuyện tình yêu",
+      "gallery": "Album",
       "rsvp": "R.S.V.P",
-      "wishes": "Wishes"
+      "wishes": "Lời chúc"
     }
   },
   "toast": {
-    "title": "From H&N with love",
-    "now": "now"
+    "title": "From Hiep & Ngoc with love",
+    "now": "bây giờ"
   }
-
 }
